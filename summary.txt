@@ -1,0 +1,8 @@
+------ Financial Summary ------
+Budget: $10000.0
+Income: $0
+Expenses: $0
+
+Expenses Entered:
+
+Money left: $0
